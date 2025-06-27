@@ -21,8 +21,5 @@
 - 🌐 Portfolio: [https://www.soufianejadda.com/](https://www.soufianejadda.com/)  
 - 🔗 LinkedIn: [https://www.linkedin.com/in/soufiane-jadda-90007a295/](https://www.linkedin.com/in/soufiane-jadda-90007a295/)  
 
----
-
-> *“Code is like humor. When you have to explain it, it’s bad.”*  
-> — *Cory House*
+--- 
 
